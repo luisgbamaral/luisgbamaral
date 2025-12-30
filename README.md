@@ -2,14 +2,14 @@
 
 **Economist & Computer Scientist | AI Researcher | CTO**
 
-I am a researcher focused on the intersection of **Computational Economics, Time Series Forecasting, and Applied Computational Intelligence**. My goal is to bridge the gap between rigorous statistical methods and modern machine learning to solve complex social problems.
+I am a researcher focused on the intersection of **Computational Economics, Time Series Forecasting, and Applied Computational Intelligence**. I am interested in combining statistics and machine learning to solve complex social problems.
 
 ---
 
 ### 🚀Current Professional Activities
 
 - **CTO at PredIATech:** Leading the development of AI solutions for public security ("AI for Good"), focusing on spatio-temporal crime prediction.
-- **Data Engineer** Developed data platforms to support public policy management for the Government of Pernambuco.
+- **Data Engineer:** Developed data platforms to support public policy management for the Government of Pernambuco.
 
 ---
 
@@ -38,7 +38,7 @@ Here are some highlights of my recent academic work:
 
 ---
 
-### 📫 Contact & Connect
+### 📫 Contact
 
 * **Email:** [luisgbamaral@gmail.com](mailto:luisgbamaral@gmail.com)
-* **LinkedIn:** [linkedin.com/in/luísamaral](https://www.linkedin.com/in/lu%C3%ADsamaral/) *
+* **LinkedIn:** [linkedin.com/in/luísamaral](https://www.linkedin.com/in/lu%C3%ADsamaral/) 
